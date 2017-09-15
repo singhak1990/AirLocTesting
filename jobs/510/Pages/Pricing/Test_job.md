@@ -1,16 +1,8 @@
-﻿---
-title：Image:;Image
----
-
-# Image:Image
+# Image
 
 ### The image displayed normal with Alt text
-
-> ![I am flower](./Images/Bmp.bmp "This is A/t text")
-
-### The image displayed normal with no Alt text_3
-  ![](./Images/Bmp.bmp)
-  ![](./Images/Bmp.bmp)
-  ![](./Images/Bmp.bmp) 
-
-
+![Flower](./Images/Flower.jpg "This is A/t text")
+![Gif](./Images/Gif.gif "This is A/t text")
+![Jpeg](./Images/Jpeg.jpeg "This is A/t text")
+![Png](./Images/Png.png "This is A/t text")
+## The image displayed normal with Alt text

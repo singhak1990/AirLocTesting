@@ -15,7 +15,7 @@
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78551"
     },
   {
-      "fileName": "Pages/Pricing/Images/Bmp.bmp",
+      "fileName": "Pages/Pricing/Images/Flower.jpg",
 
       "wordCount": 70,
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78552"
@@ -23,7 +23,7 @@
   ],
   "cultures": [
     {
-      "culture": "ko-kr",
+      "culture": "zh-cn",
       "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "2017-03-31T23:20",
