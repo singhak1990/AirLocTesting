@@ -1,4 +1,4 @@
----
+﻿---
 title：Image:;Image
 ---
 
@@ -11,4 +11,5 @@ title：Image:;Image
 ### The image displayed normal with no Alt text
   ![](./Images/Bmp.bmp)
   ![](./Images/Bmp.bmp)
+  ![](./Images/Bmp.bmp) 
   ![](./Images/Bmp.bmp)
