@@ -1,6 +1,6 @@
 {
   "schemaVersion": "3",
-  "jobId": 510,
+  "jobId": 509,
   "files": [
     {
       "fileName": "Pages/Pricing/Index.resx",
@@ -23,7 +23,7 @@
   ],
   "cultures": [
     {
-      "culture": "ko-kr",
+      "culture": "it-it",
       "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "2017-03-31T23:20",
