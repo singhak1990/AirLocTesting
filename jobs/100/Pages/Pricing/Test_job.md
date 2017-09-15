@@ -8,8 +8,9 @@ title：Image:;Image
 
 > ![I am flower](./Images/Bmp.bmp "This is A/t text")
 
-### The image displayed normal with no Alt text
+### The image displayed normal with no Alt text_2
   ![](./Images/Bmp.bmp)
   ![](./Images/Bmp.bmp)
   ![](./Images/Bmp.bmp) 
-  ![](./Images/Bmp.bmp)
+
+
