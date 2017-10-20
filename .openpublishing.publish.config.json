@@ -19,23 +19,6 @@
       "template_folder": "_themes",
       "version": 0
     }
-    {
-      "docset_name": "Pricing",
-      "build_source_folder": "jobs/100/Pages/Pricing",
-      "build_output_subfolder": "jobs/100/Pages/Pricing",
-      "locale": "zh-cn",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
-    }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
