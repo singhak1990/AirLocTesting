@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "Pricing",
-      "build_source_folder": "jobs\100\Pages\Pricing",
-      "build_output_subfolder": "jobs\100\Pages\Pricing",
+      "build_source_folder": "jobs/100/Pages/Pricing",
+      "build_output_subfolder": "jobs/100/Pages/Pricing",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -21,8 +21,8 @@
     }
     {
       "docset_name": "Pricing",
-      "build_source_folder": "jobs\100\Pages\Pricing",
-      "build_output_subfolder": "jobs\100\Pages\Pricing",
+      "build_source_folder": "jobs/100/Pages/Pricing",
+      "build_output_subfolder": "jobs/100/Pages/Pricing",
       "locale": "zh-cn",
       "monikers": [],
       "moniker_ranges": [],
