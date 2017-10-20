@@ -9,7 +9,7 @@
       ],
     "resource": [
         {
-          "files": ["**/images/**"],
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
           "exclude": ["**/obj/**"]
         }
     ],
