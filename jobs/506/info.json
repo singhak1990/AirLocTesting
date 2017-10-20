@@ -24,9 +24,9 @@
   "cultures": [
     {
       "culture": "zh-cn",
-      "status": "handed-off",
+      "status": "",
       "handBackETA": "",
-      "handOffDate": "2017-03-31T23:20",
+      "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     }
