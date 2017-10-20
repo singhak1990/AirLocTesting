@@ -1,6 +1,8 @@
 # Image
 
 ### The image displayed normal with Alt text
+> ![I am flower](./../Images/flower.jpg "This is title")
+
 ![Flower](./../Images/Flower.jpg "This is A/t text")
 ![Gif](../Images/Gif.gif "This is A/t text")
 ![Jpeg](../Images/Jpeg.jpeg "This is A/t text")
